@@ -1,0 +1,36 @@
+Information Retrieval Course():
+
+    Broad topics:
+
+        Boolean retrieval
+
+        Term vocabulary & postings lists
+
+        Dictionaries and tolerant retrieval
+
+        Scoring, term weighting & the vector space model
+
+        Evaluation in information retrieval
+
+        Index construction
+
+        Index compression
+
+        Relevance feedback & query expansion
+
+        Probabilistic information retrieval
+
+        Language models for information retrieval
+
+        Web crawling and Web search
+
+        Link analysis -- HITS, PageRank
+
+        Summarization
+
+        Domain-specific IR
+
+        Fairness in IR
+
+Uploaded Both the Assignments with the individual Readme file . 
+
